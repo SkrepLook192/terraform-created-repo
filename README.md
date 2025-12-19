@@ -8,6 +8,7 @@ This repository was created automatically using Terraform.
 - DevOps practical work №7.1
 
 ## Created by
-- Student: [Ваше ФИО]
-- Group: [Ваша группа]
+- Student: 
+- Group: 
 - Date: 19.12.2025
+
